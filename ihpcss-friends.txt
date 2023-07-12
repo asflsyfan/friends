@@ -1,12 +1,10 @@
 * Elsa
 - LLNL
-* Yiyan (Wicked tonight! Woohoo!!!)
+* Yiyan
 - University of Toronto
 * Satoshi
 - Kyushu University
 * Furkan
 - Oklahoma State University
-Added-activity
-
 
 Hello Fizzy!
